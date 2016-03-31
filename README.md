@@ -1,6 +1,8 @@
 #CHIMICHANGA
 (repo for project chimichanga)
 
+##TEAM MEMBERS
+
 Matthew Doherty - Project Manager
 
 Trevor Green - QA / Testing

@@ -2,9 +2,13 @@ CHIMICHANGA
 (repo for project chimichanga)
 
 Matthew Doherty - Project Manager
+
 Trevor Green - QA / Testing
+
 Kevin Gladnick - Lead Developer
+
 Cody Pierce - Business Analyst
+
 Kevin Smithson - Product Owner
 
 PITCH

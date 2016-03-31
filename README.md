@@ -18,3 +18,4 @@ We want to create a mobile game that is both addicting and rewarding. We will re
 -- User Results --
 Total time played / number of times app launched (average session time)
 number of times app crashed / number of times app launched (lower is better)
+ 

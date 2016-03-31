@@ -30,5 +30,3 @@ We want to create a mobile game that is both addicting and rewarding. We will re
 Total time played / number of times app launched (average session time)
 
 number of times app crashed / number of times app launched (lower is better)
- 
-![screenshot](0329161115.jpg)

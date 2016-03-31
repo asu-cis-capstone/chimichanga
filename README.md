@@ -1,4 +1,4 @@
-CHIMICHANGA
+#CHIMICHANGA
 (repo for project chimichanga)
 
 Matthew Doherty - Project Manager
@@ -11,19 +11,19 @@ Cody Pierce - Business Analyst
 
 Kevin Smithson - Product Owner
 
-PITCH
+##PITCH
 
 We want to create a mobile game that is both addicting and rewarding. We will research games that are currently popular as well as reaching out to individual gamers to get the necessary feedback in order to create the perfect game for our target audience.
 
-MEASUREMENT PLAN 
+##MEASUREMENT PLAN 
 
-USER BEHAVIOR
+####USER BEHAVIOR
 
 % of people who replay the game at least once
 
 % of people who invite their friends
 
-USER RESULTS
+####USER RESULTS
 
 Total time played / number of times app launched (average session time)
 

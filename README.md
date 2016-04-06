@@ -1,6 +1,7 @@
 #CHIMICHANGA
 (repo for project chimichanga)
 
+#Link to Feedback Survey: https://www.surveymonkey.com/r/GDL6BTQ
 ##TEAM MEMBERS
 
 Matthew Doherty - Project Manager
@@ -21,12 +22,20 @@ We want to create a mobile game that is both addicting and rewarding. We will re
 
 ####USER BEHAVIOR
 
-% of people who replay the game at least once
+% of people who would replay the game at least once
+
+v1: 
 
 % of people who invite their friends
+
+v1: 
 
 ####USER RESULTS
 
 Total time played / number of times app launched (average session time)
 
+v1:
+
 number of times app crashed / number of times app launched (lower is better)
+
+v1: 

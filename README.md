@@ -19,7 +19,7 @@ Kevin Smithson - Product Owner
 
 We want to create a mobile game that is both addicting and rewarding. We will research games that are currently popular as well as reaching out to individual gamers to get the necessary feedback in order to create the perfect game for our target audience.
 
-##MEASUREMENT PLAN 
+##METRICS
 
 ####USER BEHAVIOR
 

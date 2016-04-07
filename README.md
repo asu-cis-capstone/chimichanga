@@ -1,7 +1,7 @@
 [![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/chimichanga.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/chimichanga)
 #CHIMICHANGA
 (repo for project chimichanga)
-
+###Link to Web Game: http://kevinsmithson.net
 ###Link to Feedback Survey: https://www.surveymonkey.com/r/GDL6BTQ
 ##TEAM MEMBERS
 

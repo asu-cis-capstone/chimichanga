@@ -2,6 +2,7 @@
 #CHIMICHANGA
 (repo for project chimichanga)
 ###Link to Web Game: http://kevinsmithson.net
+###Link to Mobile Game: http://kevinsmithson.net/indexm.html
 ###Link to v2 Feedback Survey: https://www.surveymonkey.com/r/NSCW9LH
 ##TEAM MEMBERS
 

@@ -2,7 +2,7 @@
 #CHIMICHANGA
 (repo for project chimichanga)
 ###Link to Web Game: http://kevinsmithson.net
-###Link to Feedback Survey: https://www.surveymonkey.com/r/GDL6BTQ
+###Link to v2 Feedback Survey: https://www.surveymonkey.com/r/NSCW9LH
 ##TEAM MEMBERS
 
 Matthew Doherty - Project Manager
@@ -27,9 +27,13 @@ We want to create a mobile game that is both addicting and rewarding. We will re
 
 v1: 83.33%
 
+v2: 
+
 % of people who would invite their friends
 
 v1: 50%
+
+v2: 
 
 ####USER RESULTS
 
@@ -37,6 +41,10 @@ Total time played / number of times app launched (average session time)
 
 v1: 2.33 minutes
 
+v2: 
+
 percentage of players who experience technical difficulties
 
 v1: 83.3%
+
+v2:

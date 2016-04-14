@@ -28,13 +28,13 @@ We want to create a mobile game that is both addicting and rewarding. We will re
 
 v1: 83.33%
 
-v2: 
+v2: 70%
 
 % of people who would invite their friends
 
 v1: 50%
 
-v2: 
+v2: 60%
 
 ####USER RESULTS
 
@@ -42,10 +42,10 @@ Total time played / number of times app launched (average session time)
 
 v1: 2.33 minutes
 
-v2: 
+v2: 5.4 minutes
 
 percentage of players who experience technical difficulties
 
 v1: 83.3%
 
-v2:
+v2: 30%

@@ -4,7 +4,6 @@
 ###Link to Web Game: http://kevinsmithson.net
 ###Link to Download Game: https://drive.google.com/open?id=0B2Zgklwowq6ZUnhQRU42cEhrX2s
 ###Link to v3 Feedback Survey: https://www.surveymonkey.com/r/D2V5TR9
-####Link to survey results: https://www.surveymonkey.com/results/SM-XZRGHWSS/
 ##TEAM MEMBERS
 
 Matthew Doherty - Project Manager

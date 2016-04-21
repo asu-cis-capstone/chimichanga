@@ -30,7 +30,7 @@ v1: 83.33%
 
 v2: 70%
 
-v3: 
+v3: 83.33%
 
 % of people who would invite their friends
 
@@ -38,7 +38,7 @@ v1: 50%
 
 v2: 60%
 
-v3:
+v3: 75%
 
 ####USER RESULTS
 
@@ -48,7 +48,7 @@ v1: 2.33 minutes
 
 v2: 5.4 minutes
 
-v3:
+v3: 5.5 minutes
 
 percentage of players who experience technical difficulties
 
@@ -56,4 +56,4 @@ v1: 83.3%
 
 v2: 30%
 
-v3:
+v3: 20%

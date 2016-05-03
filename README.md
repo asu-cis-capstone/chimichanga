@@ -16,11 +16,15 @@ Cody Pierce - Business Analyst
 
 Kevin Smithson - Product Owner
 
-##PITCH
+##IDEA
 
 We want to create a mobile game that is both addicting and rewarding. We will research games that are currently popular as well as reaching out to individual gamers to get the necessary feedback in order to create the perfect game for our target audience.
 
-##METRICS
+After initial research, we have decided to go with a Space Pirate themed game, with ASU CIS professors as the main bosses. We believe this will help get the ball rolling with downloads as there will already be an established customer base: CIS students who want to battle their professors! We used Dr. Clark and Dr. Mazzola as the first and second bosses, respectively. The game will be a top-down, asteroids-like ship shooting game, with multiple types of enemies to encounter. 
+
+We have decided to create custom artwork assets to use while developing the game. The pirate ship, ninja stars, and meteors will be hand-drawn, uploaded, and used in the game. We have also decided to code this game using HTML5 and JavaScript, so that it can be played on any modern device on any modern browser. All one needs to do is navigate to the domain, and the game will load and be playable. Note: mobile phones may need to "zoom out" their display in order to see all of the game features.
+
+##METRICS PER VERSION
 
 ####USER BEHAVIOR
 
@@ -42,7 +46,7 @@ v3: 75%
 
 ####USER RESULTS
 
-Total time played / number of times app launched (average session time)
+Total time spent playing the game
 
 v1: 2.33 minutes
 

@@ -30,6 +30,10 @@ Note: mobile phones may need to "zoom out" their display in order to see all of 
 
 We have decided to keep this game open-source, with all resources available here on GitHub. This game was developed using "ClickTeam Fusion," which is a "drag-and-drop" development platform that uses JavaScript to run the game. The game is currently being hosted at http://kevinsmithson.net using HTML5. Anyone picking up where we leave off will need to make sure that HTML5 is used, as this allows the game to be played on any device or browser. Developers would be wise to ask permission from professors before putting their portrait and voice (sound effects) on the World Wide Web.
 
+We have chosen to keep this game off of the app store (Apple or Android) for now, due to the highly positive feedback we have have received from players regarding the ability to play on any platform on any browser. To continue development, a valuable feature would be to implement a global high scores board, as well as login/member system so that achivements and progress can be tracked and maintained no matter which device a user is playing on.
+
+Note: Our team purchased the "pro" version of ClickTeam Fusion as well as the "pro" version of the HTML5/JS exporter. This weas necessary due to the limits that were placed on us by the trial/free versions of these tools. Any developer wishing to pick up where we left off will need these versions. These software products cost about $150.00 for both tools.
+
 ##METRICS PER VERSION
 
 % of players who would replay the game at least once

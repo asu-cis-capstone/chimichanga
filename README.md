@@ -2,7 +2,8 @@
 #CHIMICHANGA
 (repo for project chimichanga)
 ###Link to Web Game: http://kevinsmithson.net
-###Link to Download Game: https://drive.google.com/open?id=0B2Zgklwowq6ZUnhQRU42cEhrX2s
+###Link to Download Game for Windows: http://kevinsmithson.net/EXE.zip
+###Link to Download Project file for ClickTeam Fusion 2.5: http://kevinsmithson.net/CHIMICHANGA.mfa
 ###Link to v3 Feedback Survey: https://www.surveymonkey.com/r/D2V5TR9
 ##TEAM MEMBERS
 

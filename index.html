@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-<meta http-equiv="Content-Type" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" name="viewport" content="width=device-width, initial-scale=.78, maximum-scale=1.5, text/html; charset=UTF-8" />
 <style type="text/css">
 html {height: 100%;}
 body {
@@ -12,7 +12,8 @@ body {
 	height: 100%;
 	min-height: 100%;
 	margin: 0;
-	background: rgb(50,50,50);
+	
+	background: rgb(0,0,0);
 }
 h1 {
 	font-family: Arial, Helvetica, sans-serif;
@@ -64,25 +65,15 @@ p {
 </style>
 
   <title>CHIMICHANGA!</title>
-
-	<script>
-	   	// Detection of old browsers that do not support the canvas element
-		// Falls back to a default page
-	    if (!document.createElement("canvas").getContext)
-	    {
-			window.open("http://www.clickteam.com/html5/html5-fallback.html", "_self");
-		}
-	</script>
 	
   	<!-- EXTRASOURCES -->
 	<!-- Loads the Javascript code...-->
-  	<script src="src/Runtime.js"></script>	
-
+  	<script src="src/Runtime.js"></script>
+  	
 </head>
 
 <!-- This is where we create the Canvas element that will contain the application...-->
 <body>
-
     <div id="wrapper">
 	    <div id="border">
 		    <div id="canvas">
@@ -93,21 +84,17 @@ p {
 	    </div>
     </div>  
     <script>
-        window.rs = "src/Runtime.js";
-        window.fs = "1355683";
-    </script>
-    <script>
-	    // RUNTIMESTART
-	    // This is where the HTML5 runtime is actually started
+        // RUNTIMESTART
+        // This is where the HTML5 runtime is actually started
 	    window.addEventListener("load", windowLoaded, false);
 	    function windowLoaded()
 	    {
 		    // Calls the runtime
 		    // First parameter : name of the canvas element
 		    // Second parameter : path to the cch file. Images and sounds must lay beside this file
-		    new Runtime("MMFCanvas", "resources/Prototype 3.cch");
+		    new Runtime("MMFCanvas", "resources/CHIMICHANGA.cch");
 	    }
-	    // RUNTIMESTARTEND
+        // RUNTIMESTARTEND
     </script>
 </body>
 </html>

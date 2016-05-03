@@ -28,7 +28,7 @@ Note: mobile phones may need to "zoom out" their display in order to see all of 
 
 ##AVAILABILITY
 
-Github
+We have decided to keep this game open-source, with all resources available here on GitHub. This game was developed using "ClickTeam Fusion," which is a "drag-and-drop" development platform that uses JavaScript to run the game. The game is currently being hosted at http://kevinsmithson.net using HTML5. Anyone picking up where we leave off will need to make sure that HTML5 is used, as this allows the game to be played on any device or browser. Developers would be wise to ask permission from professors before putting their portrait and voice (sound effects) on the World Wide Web.
 
 ##METRICS PER VERSION
 
